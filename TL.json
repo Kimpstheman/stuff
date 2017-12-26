@@ -2,7 +2,7 @@
     "room": "Take It Easy. Like a boss.",
     "author": "Kimps ~ Hardstyle Heaven",
     "icon": null,
-    "css": true,
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
