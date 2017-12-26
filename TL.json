@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": 1.png,
         "playback": null,
         "admin": null,
         "ambassador": null,
