@@ -32,7 +32,7 @@
         "admin": null,
         "ambassador": null,
         "host": null,
-        "cohost": "#F698DB",
+        "cohost": null,
         "manager": null,
         "bouncer": null,
         "rdj": null,
@@ -42,4 +42,6 @@
     "emotes": {
     	"emote_name": null
     }
+    "icons": {
+        "icon-chat-host": "#F698DB"
 }
