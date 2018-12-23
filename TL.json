@@ -32,7 +32,7 @@
         "admin": null,
         "ambassador": null,
         "host": null,
-        "cohost": null,
+        "cohost": "#F698DB",
         "manager": null,
         "bouncer": null,
         "rdj": null,
